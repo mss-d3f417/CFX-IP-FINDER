@@ -1,0 +1,309 @@
+[
+    {
+        "endpoint": "127.0.0.1",
+        "id": 45,
+        "identifiers": [
+            "steam:11000013f6b601e",
+            "license:8d00d149c3c9ebff84c4a1baaf6207541f2b0c17",
+            "xbl:2535443779574366",
+            "live:914798824307859",
+            "discord:394930781061120002",
+            "license2:0ec13bfe1c28b3da3f0f820464ef2f342d29c574"
+        ],
+        "name": "its.Nobody",
+        "ping": 31
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 6,
+        "identifiers": [
+            "steam:1100001641545fd",
+            "license:ef98b902e70be8df714ee506938fcc57b01e0ad7",
+            "live:844429188233013",
+            "fivem:13291212",
+            "license2:2292ef6337ab48a1604cab5b653b246d55ac0b53"
+        ],
+        "name": "MatinDark-KING",
+        "ping": 36
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 41,
+        "identifiers": [
+            "steam:11000014ac33763",
+            "license:86e492fb3034c07ea0410457cb64333bd0885ec2",
+            "discord:870749168531013692",
+            "license2:86e492fb3034c07ea0410457cb64333bd0885ec2"
+        ],
+        "name": "~b~ zap",
+        "ping": 32
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 47,
+        "identifiers": [
+            "steam:11000015c71363b",
+            "license:6ed754b30a07464ce0a60e8acdd980358e4f6288",
+            "discord:1139593358327685280",
+            "license2:6ed754b30a07464ce0a60e8acdd980358e4f6288"
+        ],
+        "name": "~c~ SAiMON ",
+        "ping": 63
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 30,
+        "identifiers": [
+            "steam:11000014c2b3cf6",
+            "license:3ebd9699adcb6e2014e7f7e610239e86176def10",
+            "xbl:2535444014234066",
+            "live:914799271037011",
+            "discord:652156580061773854",
+            "fivem:8492538",
+            "license2:d39cba67e2a105b27270f325c083aa7219042974"
+        ],
+        "name": "Vodka",
+        "ping": 57
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 39,
+        "identifiers": [
+            "steam:110000141c067c0",
+            "license:5f69a14de7124dd90a6e2491f11e275288a40bed",
+            "discord:736658673740283944",
+            "fivem:13446813",
+            "license2:5f69a14de7124dd90a6e2491f11e275288a40bed"
+        ],
+        "name": "axxa",
+        "ping": 50
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 32,
+        "identifiers": [
+            "steam:1100001607b091a",
+            "license:86e492fb3034c07ea0410457cb64333bd0885ec2",
+            "discord:870749168531013692",
+            "license2:86e492fb3034c07ea0410457cb64333bd0885ec2"
+        ],
+        "name": "Ares_play",
+        "ping": 59
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 34,
+        "identifiers": [
+            "steam:11000015fafc78f",
+            "license:8e0ef34ed4cd6ae6d00c9f6dc867015fe0953f01",
+            "discord:1159740333639340063",
+            "license2:8e0ef34ed4cd6ae6d00c9f6dc867015fe0953f01"
+        ],
+        "name": "ASGHAR PASHE CKOSH",
+        "ping": 68
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 68,
+        "identifiers": [
+            "steam:11000015c63f190",
+            "license:bccd90d32a44377e2da5aa2e8a674ce440214e04",
+            "live:914799520440214",
+            "discord:1019572305426403418",
+            "fivem:12857945",
+            "license2:bccd90d32a44377e2da5aa2e8a674ce440214e04"
+        ],
+        "name": "ZeUs",
+        "ping": 57
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 36,
+        "identifiers": [
+            "steam:1100001461528aa",
+            "license:3a85aa32bc7143c69241c0fe51a80d30e139dc6b",
+            "discord:783304250331496469",
+            "fivem:12453496",
+            "license2:3a85aa32bc7143c69241c0fe51a80d30e139dc6b"
+        ],
+        "name": "~m~MoRgAn",
+        "ping": 37
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 49,
+        "identifiers": [
+            "steam:110000163ea55d2",
+            "license:bb2024efbbbaa6873af422721c4df0fd2ea93e29",
+            "discord:1077646463267516558",
+            "license2:8e0ef34ed4cd6ae6d00c9f6dc867015fe0953f01"
+        ],
+        "name": "amuhacker",
+        "ping": 52
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 57,
+        "identifiers": [
+            "steam:110000164de5a27",
+            "license:56e3f8aa27346fc461577c578b2fb2cc7a2c587a",
+            "discord:1125032892628733952",
+            "fivem:13516366",
+            "license2:56e3f8aa27346fc461577c578b2fb2cc7a2c587a"
+        ],
+        "name": "mmdparsadlv",
+        "ping": 78
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 53,
+        "identifiers": [
+            "steam:11000014ac7d373",
+            "license:b09fe0aa6446712cb98175095088d0b15844a378",
+            "live:914798957573054",
+            "discord:1062493325766172702",
+            "fivem:11484081",
+            "license2:d71f4483635acbd1cbc44c1d970128f25de44fb8"
+        ],
+        "name": "placemaker",
+        "ping": 90
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 54,
+        "identifiers": [
+            "steam:11000014046d07d",
+            "license:a4c0a2cafef5f85b0c922ef2f548b0db0d817f3b",
+            "discord:487738276862623758",
+            "fivem:13256488",
+            "license2:89b48539ed18cd48514d01b59e3a049acfd1dc4e"
+        ],
+        "name": "amoiman",
+        "ping": 36
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 59,
+        "identifiers": [
+            "steam:110000153c86961",
+            "license:557cf6a17b9330946437811f6b509cf045c686dc",
+            "xbl:2535470993328856",
+            "live:985154431770300",
+            "discord:754663740036743230",
+            "license2:557cf6a17b9330946437811f6b509cf045c686dc"
+        ],
+        "name": "hatamgang",
+        "ping": 59
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 61,
+        "identifiers": [
+            "steam:1100001454790b4",
+            "license:93f1009f883ec24c1e0d1c037fe36d2e490e8da7",
+            "discord:782475197038198804",
+            "license2:a5cd68a181a4e555d2c4cf0f251da0514b3b67a2"
+        ],
+        "name": "slowcar",
+        "ping": 50
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 70,
+        "identifiers": [
+            "steam:11000014b5d8417",
+            "license:102b52089812a668af9602df9e07bc4f08ee31a1",
+            "discord:1182708155927511060",
+            "license2:63e906418249ee6b0cbc2d89658c32805ee5a707"
+        ],
+        "name": "Black day",
+        "ping": 23
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 72,
+        "identifiers": [
+            "steam:1100001324fd72d",
+            "license:2eda4a9ecb816496af20b4b8af024c62401c84b7",
+            "discord:454772631955308575",
+            "license2:ef146b59e79a6a84830b0e8d958b4c8f74028268"
+        ],
+        "name": "Sussy Levi \u0d9e",
+        "ping": 63
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 73,
+        "identifiers": [
+            "steam:1100001628fc1fd",
+            "license:afeb96824413c7b3bfc8c6875b761e9714d0e915",
+            "discord:851867127647698954",
+            "fivem:13054788",
+            "license2:afeb96824413c7b3bfc8c6875b761e9714d0e915"
+        ],
+        "name": "       mahan",
+        "ping": 26
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 75,
+        "identifiers": [
+            "steam:110000105c258be",
+            "license:2d09796ae83fcc6332e75124e2b530f2eb3ff13c",
+            "discord:973823239254065192",
+            "license2:b59b80b02e5642ab4cf789befde8c67d1f10de6f"
+        ],
+        "name": "\ud835\udcef\ud835\udcee\ud835\udcfc\ud835\udcf1\ud835\udcea\ud835\udcfb\ud835\udcf2",
+        "ping": 39
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 76,
+        "identifiers": [
+            "steam:11000014bea75f0",
+            "license:c0cc5d623870f5ab89baf715e81ec6a5195daa51",
+            "license2:d44cacc2c64173308f085acb2fbc434f0a785d89"
+        ],
+        "name": "amirgtf",
+        "ping": 80
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 77,
+        "identifiers": [
+            "steam:1100001587adbad",
+            "license:d9922072a6bdf2bfff73c39bf891972c21998006",
+            "discord:1191763119865860138",
+            "fivem:13394320",
+            "license2:e86a57ceaa4714e153d2aa8dd8ed2ea73647c5ad"
+        ],
+        "name": "Garsha",
+        "ping": 100
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 78,
+        "identifiers": [
+            "steam:11000014974e6e2",
+            "license:795f298c59bf392a4c10e1d770a0d5884bd2586e",
+            "xbl:2535463601670479",
+            "live:1055518804538931",
+            "discord:576709253138481152",
+            "license2:5662578476b8738e93a81ccc713f1d20223a9aa2"
+        ],
+        "name": "khode sepy",
+        "ping": 33
+    },
+    {
+        "endpoint": "127.0.0.1",
+        "id": 79,
+        "identifiers": [
+            "steam:11000015adfd982",
+            "license:8cd8bebc2884938fc12331c87ecf96528180393f",
+            "discord:898166047167905893",
+            "license2:8cd8bebc2884938fc12331c87ecf96528180393f"
+        ],
+        "name": "!IFN!",
+        "ping": 65
+    }
+]

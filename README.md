@@ -16,9 +16,17 @@
  1. Install req
 
 > pip install requests
+
+
 > pip install tk-tools
+
+
 > pip install pyperclip
+
+
 > pip install pypi-json
+
+
 
 2. Download Script
 
